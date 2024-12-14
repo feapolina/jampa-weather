@@ -1,7 +1,7 @@
 ---
 
 # Jampa Weather 🌤️  
-![Imagem do Projeto](./img.png)  
+![Imagem do Projeto](./app-image.png)  
 
 O **Jampa Weather** é um aplicativo que fornece informações meteorológicas precisas para a cidade de João Pessoa, para que você possa planejar melhor o seu dia e acompanhar o clima em tempo real!  
 
